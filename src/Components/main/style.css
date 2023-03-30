@@ -1,0 +1,70 @@
+div.container div.row div.col-sm-12.col-md-6 h1 {
+    font-size: 40px;
+    
+    font-family: 'Josefin Sans';
+    font-weight: 100;
+    margin-bottom: 20px;
+  }
+
+  div.container div.row div.col-sm-12.col-md-6 h4 {
+    font-size: 22px;
+    text-align: left;
+    font-family: 'Josefin Sans';
+    font-weight: 100;
+    
+  }
+
+  div.container div.row div.col-sm-12.col-md-6 p {
+    font-size: 18px;
+
+    font-family: 'Josefin Sans';
+    line-height: 1.5em;
+    font-weight: 100;
+    text-align: left;
+    margin-bottom: 40px;
+  }
+ 
+  div.container div.row div.col-sm-12.col-md-6 h5 {
+    font-size: 22px;
+    text-align: left;
+    font-family: 'Josefin Sans';
+    font-weight: 100;
+    
+  }
+
+  div.container div.row div.col-sm-12.col-md-6 ul li {
+    font-size: 18px;
+    text-align: left;
+    font-family: 'Josefin Sans';
+    font-weight: 100;
+    list-style-type: none;
+    margin-bottom: 10px;
+    
+    
+  }
+
+  #name {
+    margin-bottom: 20px;
+  }
+
+  #message{
+    margin-bottom: 20px;
+  }
+
+  button.main-button{
+    float: left;
+    text-transform: uppercase;
+    font-size: 13px;
+    border-radius: 20px;
+    padding: 5px 20px;
+    color: #fff;
+    background-color: black;
+  }
+
+  .form-header {
+    font-size: 22px;
+    text-align: left;
+    font-family: 'Josefin Sans';
+    font-weight: 100;
+    margin-bottom: 40px;
+  }
