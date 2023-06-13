@@ -4,7 +4,7 @@ import './style.css'
 function MyHeader() {
     return (
       
-        <nav class="navbar navbar-light bg-light">
+        <nav class="navbar navbar-light">
         <h1 class="navbar-brand" href="#">Sandy Aaby Pedersen</h1>
 
        

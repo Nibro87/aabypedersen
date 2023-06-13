@@ -2,18 +2,18 @@ import './style.css'
 
 function MyFooter(){
     return(
-        <footer>
-        <div class="container">
-          <div class="row">
-            <div class="col-md-6">
-             
-            </div>
-            <div class="col-md-6">
-              
-            </div>
+      <footer className="my-footer">
+      <div className="container">
+        <div className="row">
+          <div className="col-md-6">
+          <p></p>
+          </div>
+          <div className="col-md-6">
+            
           </div>
         </div>
-      </footer>
+      </div>
+    </footer>
     );
 }
 
