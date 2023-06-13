@@ -1,5 +1,5 @@
 import './style.css'
-import image from "./image.jpg"
+
 
 import opskrifter from "./opskrifter.png"
 import after from "./after.png"
